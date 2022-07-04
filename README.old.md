@@ -1,2 +1,0 @@
-# FitnessApp
-FitnessApp React Practice

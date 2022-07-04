@@ -10,8 +10,9 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => {
         className="bodyPart-card"
         sx={{
             borderTop: bodyPart === item ? '4px solid #ff2625' : '',
-            backgroundColor: '#fff',
+            backgroundColor: '#ffb5b5',
             borderBottomLeftRadius: '20px',
+            borderBottomRightRadius: '20px',
             width: '270px',
             height: '280px',
             cursor: 'pointer', gap: '47px',
