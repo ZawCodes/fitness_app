@@ -2,5 +2,8 @@
 
 ## How to run
 
-npm install
-npm run start
+### npm install
+### npm run start
+
+### website demo link
+https://fitness-app.pages.dev/
